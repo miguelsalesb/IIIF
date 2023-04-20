@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 103,
+    "height" : 65
+  }, {
+    "width" : 205,
+    "height" : 129
+  }, {
+    "width" : 409,
+    "height" : 258
+  }, {
+    "width" : 818,
+    "height" : 515
+  }, {
+    "width" : 1636,
+    "height" : 1030
+  }, {
+    "width" : 3272,
+    "height" : 2060
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3272,
+  "@id" : "https://miguelsalesb.github.io/IIIF/images/pi-6711-p_0000_000001",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2060
+}
