@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://miguelsalesb.github.io/IIIF/annotations/db8314ded05c77e144efd6239516d51c.json" ],
+  "@id" : "https://miguelsalesb.github.io/IIIF/annotations/collection.json",
+  "label" : "All annotations loaded in miguelsalesb/IIIF project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
