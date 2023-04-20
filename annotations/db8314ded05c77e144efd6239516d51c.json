@@ -1,0 +1,80 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"color: rgb(77, 81, 86);\">The equestrian&nbsp;<strong style=\"color: rgb(95, 99, 104);\">statue<span style=\"color: rgb(77, 81, 86);\">&nbsp;of King&nbsp;<strong style=\"color: rgb(95, 99, 104);\">José<span style=\"color: rgb(77, 81, 86);\">&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"color: rgb(77, 81, 86);\">The equestrian&nbsp;</span><strong style=\"color: rgb(95, 99, 104);\">statue</strong><span style=\"color: rgb(77, 81, 86);\">&nbsp;of King&nbsp;</span><strong style=\"color: rgb(95, 99, 104);\">José</strong><span style=\"color: rgb(77, 81, 86);\">&nbsp;</span></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "statue",
+      "@type" : "oa:Tag",
+      "chars" : "statue"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/17281111",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-04-20T15:24:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682004259456",
+    "dcterms:modified" : "2023-04-20T18:26:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://miguelsalesb.github.io/IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=981,31,510,938"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M980.85642,31.24937h255.02519v0h255.02519v469.15113v469.15113h-255.02519h-255.02519v-469.15113z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_73ebc790-9e06-4cd4-b683-b941f7d9e4a3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://809ff15d-25b1-487a-9642-03bae70cb77c"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<strong style=\"color: rgb(95, 99, 104);\">Triumphal Arch",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><strong style=\"color: rgb(95, 99, 104);\">Triumphal Arch</strong></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "arch",
+      "@type" : "oa:Tag",
+      "chars" : "arch"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/17281111",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-04-20T15:25:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682004325804",
+    "dcterms:modified" : "2023-04-20T18:26:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://miguelsalesb.github.io/IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=79,134,515,870"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M79.1335,133.65743h257.68514v0h257.68514v435.23678v435.23678h-257.68514h-257.68514v-435.23678z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_23dd3987-4dff-430d-89c5-16eb80606ca6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://809ff15d-25b1-487a-9642-03bae70cb77c"
+    } ]
+  } ],
+  "@id" : "https://miguelsalesb.github.io/IIIF/annotations/db8314ded05c77e144efd6239516d51c.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
