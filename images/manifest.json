@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1588,
+    "id" : "https://miguelsalesb.github.io/IIIF/images/pi-28862-p_0000_1-2_t24-C-R0150_000001/canvas/",
+    "label" : {
+      "none" : [ "pi-28862-p_0000_1-2_t24-C-R0150_000001" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://miguelsalesb.github.io/IIIF/images/pi-28862-p_0000_1-2_t24-C-R0150_000001/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://miguelsalesb.github.io/IIIF/images/pi-28862-p_0000_1-2_t24-C-R0150_000001/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 50,
+              "height" : 33
+            }, {
+              "width" : 100,
+              "height" : 66
+            }, {
+              "width" : 199,
+              "height" : 132
+            }, {
+              "width" : 397,
+              "height" : 264
+            }, {
+              "width" : 794,
+              "height" : 528
+            }, {
+              "width" : 1588,
+              "height" : 1056
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1588,
+            "@id" : "https://miguelsalesb.github.io/IIIF/images/pi-28862-p_0000_1-2_t24-C-R0150_000001",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1056
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1588,
+          "id" : "https://miguelsalesb.github.io/IIIF/images/pi-28862-p_0000_1-2_t24-C-R0150_000001/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1056
+        },
+        "target" : "https://miguelsalesb.github.io/IIIF/images/pi-28862-p_0000_1-2_t24-C-R0150_000001/canvas/"
+      } ]
+    } ],
+    "height" : 1056
+  }, {
     "width" : 3272,
     "id" : "https://miguelsalesb.github.io/IIIF/images/pi-6711-p_0000_000001/canvas/",
     "label" : {
