@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://miguelsalesb.github.io/IIIF/manifests/manifest3.json",
     "label" : "This is my manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://miguelsalesb.github.io/IIIF/manifests/manifest4.json",
+    "label" : "This is second manifest"
   } ]
 }
