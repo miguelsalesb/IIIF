@@ -2,7 +2,12 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://miguelsalesb.github.io/IIIF/manifests/manifest2.json",
   "@type" : "sc:Manifest",
-  "label" : "This is my manifest",
+  "label" : "This is my second manifest",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/17281111/1d499ae477ac3c1f980fd176671b5fb0/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
     "label" : "Author",
     "value" : "Sales Baptista, Miguel"
@@ -26,7 +31,10 @@
     "canvases" : [ {
       "@id" : "http://809ff15d-25b1-487a-9642-03bae70cb77c",
       "@type" : "sc:Canvas",
-      "label" : "Commercio Square",
+      "label" : [ {
+        "@value" : "Commercio Square",
+        "@language" : "en"
+      } ],
       "height" : 1056,
       "width" : 1588,
       "images" : [ {
@@ -48,11 +56,19 @@
         },
         "on" : "http://809ff15d-25b1-487a-9642-03bae70cb77c"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://miguelsalesb.github.io/IIIF/annotations/db8314ded05c77e144efd6239516d51c.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations about the postcard"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://bfe7955d-5dc9-4ab0-a2a4-81fc8d54174e",
       "@type" : "sc:Canvas",
-      "label" : "Luiz de Camoes Square",
+      "label" : [ {
+        "@value" : "Luiz de Camoes Square",
+        "@language" : "en"
+      } ],
       "height" : 2212,
       "width" : 3374,
       "images" : [ {
@@ -74,11 +90,19 @@
         },
         "on" : "http://bfe7955d-5dc9-4ab0-a2a4-81fc8d54174e"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://miguelsalesb.github.io/IIIF/annotations/fe7a335a9659bc2a91a735eb1ad08e29.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations about the postcard"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://66599125-399e-4d32-a6b1-bfe51afb2e25",
       "@type" : "sc:Canvas",
-      "label" : "D Pedro Square",
+      "label" : [ {
+        "@value" : "D Pedro Square",
+        "@language" : "en"
+      } ],
       "height" : 2060,
       "width" : 3272,
       "images" : [ {
@@ -99,6 +123,11 @@
           "width" : 3272
         },
         "on" : "http://66599125-399e-4d32-a6b1-bfe51afb2e25"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://miguelsalesb.github.io/IIIF/annotations/56c24391cc757777f5d7e1cd4072c91d.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations about the postcard"
       } ],
       "related" : ""
     } ]
