@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "D. Pedro IV statue",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>D. Pedro IV statue</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/17281111",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-04-20T18:27:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682015227106",
+    "dcterms:modified" : "2023-04-20T18:27:07",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://miguelsalesb.github.io/IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=747,203,572,1202"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1319.32554,1404.57763h-286.16194v0h-286.16194v-600.83639v-600.83639h286.16194h286.16194v600.83639z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7392ced4-fb5f-47c9-856c-1cd28cb0f256\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://66599125-399e-4d32-a6b1-bfe51afb2e25"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Carmo convent",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Carmo convent</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/17281111",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-04-20T18:27:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682015248811",
+    "dcterms:modified" : "2023-04-20T18:27:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://miguelsalesb.github.io/IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1859,122,446,439"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1859.25876,121.80634h222.8197v0h222.8197v219.38063v219.38063h-222.8197h-222.8197v-219.38063z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_03a35876-b1a2-4a73-8f01-ec5d098a76e5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://66599125-399e-4d32-a6b1-bfe51afb2e25"
+    } ]
+  } ],
+  "@id" : "https://miguelsalesb.github.io/IIIF/annotations/56c24391cc757777f5d7e1cd4072c91d.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
