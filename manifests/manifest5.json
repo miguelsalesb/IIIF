@@ -1,0 +1,116 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://miguelsalesb.github.io/IIIF/manifests/manifest5.json",
+  "@type" : "sc:Manifest",
+  "label" : "This is my second manifest",
+  "metadata" : [ {
+    "label" : "Author",
+    "value" : "Sales Baptista, Miguel"
+  }, {
+    "label" : "Source",
+    "value" : "<span>From: <a href=\"https://purl.pt/\">National Digital Library of Portugal</a></span>"
+  } ],
+  "description" : [ {
+    "@value" : "Some postcards of Lisbon",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/share-your-work/public-domain/cc0/",
+  "attribution" : "Published by Biblioteca Nacional de Portugal and released as Public Domain",
+  "sequences" : [ {
+    "@id" : "http://e30c652d-4fa5-4a79-8e72-1b4a3523e38a",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://809ff15d-25b1-487a-9642-03bae70cb77c",
+      "@type" : "sc:Canvas",
+      "label" : [ {
+        "@value" : "Commercio Square",
+        "@language" : "en"
+      } ],
+      "height" : 1056,
+      "width" : 1588,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://dbb9ebe3-de71-4333-be1d-dd6e173930bd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://miguelsalesb.github.io/IIIF/images/pi-28862-p_0000_1-2_t24-C-R0150_000001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://miguelsalesb.github.io/IIIF/images/pi-28862-p_0000_1-2_t24-C-R0150_000001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1056,
+          "width" : 1588
+        },
+        "on" : "http://809ff15d-25b1-487a-9642-03bae70cb77c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bfe7955d-5dc9-4ab0-a2a4-81fc8d54174e",
+      "@type" : "sc:Canvas",
+      "label" : [ {
+        "@value" : "Luiz de Camoes Square",
+        "@language" : "en"
+      } ],
+      "height" : 2212,
+      "width" : 3374,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4d998d65-9665-47fa-89cf-1a8df379a638",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://miguelsalesb.github.io/IIIF/images/pi-3413-p_0000_000001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://miguelsalesb.github.io/IIIF/images/pi-3413-p_0000_000001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2212,
+          "width" : 3374
+        },
+        "on" : "http://bfe7955d-5dc9-4ab0-a2a4-81fc8d54174e"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://66599125-399e-4d32-a6b1-bfe51afb2e25",
+      "@type" : "sc:Canvas",
+      "label" : [ {
+        "@value" : "D Pedro Square",
+        "@language" : "en"
+      } ],
+      "height" : 2060,
+      "width" : 3272,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://e74cf51a-af05-4b6f-954e-75ce57d1e918",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://miguelsalesb.github.io/IIIF/images/pi-6711-p_0000_000001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://miguelsalesb.github.io/IIIF/images/pi-6711-p_0000_000001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2060,
+          "width" : 3272
+        },
+        "on" : "http://66599125-399e-4d32-a6b1-bfe51afb2e25"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
