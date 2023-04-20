@@ -1,0 +1,66 @@
+{
+  "id" : "https://miguelsalesb.github.io/IIIF/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in miguelsalesb/IIIF project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 3374,
+    "id" : "https://miguelsalesb.github.io/IIIF/images/pi-3413-p_0000_000001/canvas/",
+    "label" : {
+      "none" : [ "pi-3413-p_0000_000001" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://miguelsalesb.github.io/IIIF/images/pi-3413-p_0000_000001/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://miguelsalesb.github.io/IIIF/images/pi-3413-p_0000_000001/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 106,
+              "height" : 70
+            }, {
+              "width" : 211,
+              "height" : 139
+            }, {
+              "width" : 422,
+              "height" : 277
+            }, {
+              "width" : 844,
+              "height" : 553
+            }, {
+              "width" : 1687,
+              "height" : 1106
+            }, {
+              "width" : 3374,
+              "height" : 2212
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3374,
+            "@id" : "https://miguelsalesb.github.io/IIIF/images/pi-3413-p_0000_000001",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2212
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3374,
+          "id" : "https://miguelsalesb.github.io/IIIF/images/pi-3413-p_0000_000001/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2212
+        },
+        "target" : "https://miguelsalesb.github.io/IIIF/images/pi-3413-p_0000_000001/canvas/"
+      } ]
+    } ],
+    "height" : 2212
+  } ]
+}
