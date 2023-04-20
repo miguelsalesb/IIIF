@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<span style=\"font-weight: bold; color: #5f6368; font-family: arial, sans-serif;\">Statue<span style=\"color: #4d5156; font-family: arial, sans-serif;\">&nbsp;of&nbsp;<span style=\"font-weight: bold; color: #5f6368; font-family: arial, sans-serif;\">Lu&iacute;s de Cam&otilde;es",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><span style=\"font-weight: bold; color: #5f6368; font-family: arial, sans-serif;\">Statue</span><span style=\"color: #4d5156; font-family: arial, sans-serif;\">&nbsp;of&nbsp;</span><span style=\"font-weight: bold; color: #5f6368; font-family: arial, sans-serif;\">Lu&iacute;s de Cam&otilde;es</span></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/17281111",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-04-20T15:26:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682004391373",
+    "dcterms:modified" : "2023-04-20T18:25:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://miguelsalesb.github.io/IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=267,1062,437,827"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M266.97985,1062.21159h218.29975v0h218.29975v413.31234v413.31234h-218.29975h-218.29975v-413.31234z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_1e2d852d-5b08-401e-8ac7-26d8cf77c6fb\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"12.3094\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bfe7955d-5dc9-4ab0-a2a4-81fc8d54174e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<h2 class=\"qrShPb kno-ecr-pt PZPZlf q8U8x PPT5v hNKfZe\" style=\"color: #202124; line-height: 1.34; margin: 0px 40px 0px 0px; font-family: 'Google Sans', arial, sans-serif; font-size: 24px; font-weight: 400; pointer-events: none; position: relative; transform-origin: left top; overflow-wrap: break-word; overflow: visible; padding-bottom: 2px;\" data-dtype=\"d3ifr\" data-local-attribute=\"d3bn\" data-attrid=\"title\" data-ved=\"2ahUKEwiq7K6firn-AhUXSKQEHdswDCIQ3B0oAHoECAUQAQ\">Nossa Senhora do Loreto dos Italianos church",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<h2 class=\"qrShPb kno-ecr-pt PZPZlf q8U8x PPT5v hNKfZe\" style=\"color: #202124; line-height: 1.34; margin: 0px 40px 0px 0px; font-family: 'Google Sans', arial, sans-serif; font-size: 24px; font-weight: 400; pointer-events: none; position: relative; transform-origin: left top; overflow-wrap: break-word; overflow: visible; padding-bottom: 2px;\" data-dtype=\"d3ifr\" data-local-attribute=\"d3bn\" data-attrid=\"title\" data-ved=\"2ahUKEwiq7K6firn-AhUXSKQEHdswDCIQ3B0oAHoECAUQAQ\">Nossa Senhora do Loreto dos Italianos church</h2>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/17281111",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-04-20T18:24:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682015081940",
+    "dcterms:modified" : "2023-04-20T18:24:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://miguelsalesb.github.io/IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=83,359,1496,1126"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M82.72584,359.28102h747.77054v0h747.77054v563.12948v563.12948h-747.77054h-747.77054v-563.12948z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8e55884e-52c4-4796-b5c4-9de236dfdea1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bfe7955d-5dc9-4ab0-a2a4-81fc8d54174e"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<h2 class=\"qrShPb kno-ecr-pt PZPZlf q8U8x PPT5v hNKfZe\" style=\"color: #202124; line-height: 1.34; margin: 0px 40px 0px 0px; font-family: 'Google Sans', arial, sans-serif; font-size: 24px; font-weight: 400; pointer-events: none; position: relative; transform-origin: left top; overflow-wrap: break-word; overflow: visible; padding-bottom: 2px;\" data-dtype=\"d3ifr\" data-local-attribute=\"d3bn\" data-attrid=\"title\" data-ved=\"2ahUKEwiUuLW-irn-AhXjVaQEHZmECu4Q3B0oAHoECAMQAQ\">Nossa Senhora da Encarna&ccedil;&atilde;o church",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<h2 class=\"qrShPb kno-ecr-pt PZPZlf q8U8x PPT5v hNKfZe\" style=\"color: #202124; line-height: 1.34; margin: 0px 40px 0px 0px; font-family: 'Google Sans', arial, sans-serif; font-size: 24px; font-weight: 400; pointer-events: none; position: relative; transform-origin: left top; overflow-wrap: break-word; overflow: visible; padding-bottom: 2px;\" data-dtype=\"d3ifr\" data-local-attribute=\"d3bn\" data-attrid=\"title\" data-ved=\"2ahUKEwiUuLW-irn-AhXjVaQEHZmECu4Q3B0oAHoECAMQAQ\">Nossa Senhora da Encarna&ccedil;&atilde;o church</h2>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/17281111",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-04-20T18:25:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1682015118801",
+    "dcterms:modified" : "2023-04-20T18:25:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://miguelsalesb.github.io/IIIF/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2298,273,1048,1393"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2298.41866,273.11519h524.14969v0h524.14969v696.48136v696.48136h-524.14969h-524.14969v-696.48136z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_08bce7f4-5387-49e7-84bc-1d11ce300a94\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://bfe7955d-5dc9-4ab0-a2a4-81fc8d54174e"
+    } ]
+  } ],
+  "@id" : "https://miguelsalesb.github.io/IIIF/annotations/fe7a335a9659bc2a91a735eb1ad08e29.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
